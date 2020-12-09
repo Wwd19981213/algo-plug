@@ -1,0 +1,16 @@
+﻿G:\additional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  stdafx.cpp
+  Algorithms.cpp
+d:\algo_plugin\algo_plugin\algo_plugin\algorithms.cpp(17): warning C4305: “初始化”: 从“double”到“float”截断
+d:\algo_plugin\algo_plugin\algo_plugin\algorithms.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+d:\algo_plugin\algo_plugin\algo_plugin\algorithms.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+d:\algo_plugin\algo_plugin\algo_plugin\algorithms.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+d:\algo_plugin\algo_plugin\algo_plugin\algorithms.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+d:\algo_plugin\algo_plugin\algo_plugin\algorithms.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+d:\algo_plugin\algo_plugin\algo_plugin\algorithms.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+d:\algo_plugin\algo_plugin\algo_plugin\algorithms.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+d:\algo_plugin\algo_plugin\algo_plugin\algorithms.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+  algo_plugin.cpp
+  正在生成代码...
+    正在创建库 ..\Debug\algo_plugin.lib 和对象 ..\Debug\algo_plugin.exp
+  algo_plugin.vcxproj -> D:\algo_plugin\algo_plugin\algo_plugin\..\Debug\algo_plugin.dll
